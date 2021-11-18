@@ -125,7 +125,7 @@ of a div inside of a div when you hover over it.
 Finally, figure out how to select two types of things
 at the same time.* */
 
-div > div > div:hover, img:hover{
+div > div > div:hover, img:hover {
   border: solid yellow thin;
 }
 
